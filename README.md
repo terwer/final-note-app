@@ -37,4 +37,10 @@ Locally preview production build:
 yarn preview
 ```
 
+## Debug API routes
+
+```bash
+vercel dev
+```
+
 Checkout the [deployment documentation](https://v3.nuxtjs.org/guide/deploy/presets) for more information.
