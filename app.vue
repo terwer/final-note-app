@@ -1,12 +1,9 @@
 <template>
-  <Index/>
+  <NuxtPage/>
 </template>
 
 <script lang="ts">
-
-import Index from "~/pages/index.vue";
-
 export default {
-  components: {Index}
+  name: "app"
 }
 </script>

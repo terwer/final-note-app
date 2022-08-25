@@ -8,6 +8,10 @@
     "typecheck": "nuxi typecheck"
   },
   "devDependencies": {
+    "@types/showdown": "^2.0.0",
     "nuxt": "3.0.0-rc.8"
+  },
+  "dependencies": {
+    "showdown": "^2.1.0"
   }
 }
